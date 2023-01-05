@@ -1,5 +1,6 @@
-let button = document.querySelector(".menu-bars");
-let mobilenav = document.getElementById("mobile-nav");
+const button = document.querySelector('.menu-bars');
+const mobilenav = document.getElementById('mobile-nav');
+
 button.onclick = function () {
-  mobilenav.style.display = "block";
+  mobilenav.style.display = 'block';
 };

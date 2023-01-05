@@ -78,7 +78,9 @@ header {
 
 #mobile-nav a {
   font-size: 32px;
-  color: white;
+  color: rgb(207, 194, 194);
+  display: flex;
+  justify-content: flex-start;
 }
 
 main {
